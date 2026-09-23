@@ -1,6 +1,6 @@
 # HÓPUPPLÝSINGAR & TASK-LISTI
 
-**Hópanúmer:** _[t.d. H12]_  
+**Hópanúmer:** _[Group 4]_  
 **Nöfn nemenda:** _[Ismael]_, _[Einar]_, _[Viktor]_
 
 ## Tasks fyrir heuristics evaluation
